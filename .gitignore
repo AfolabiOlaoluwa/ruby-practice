@@ -67,6 +67,10 @@ fabric.properties
 .rvmrc
 
 # Ignored rubymine IDE modules
+.idea
+*.idea
+*.idea/
+.idea*/
 .idea/
 .idea/misc.xml
 .idea/modules.xml
