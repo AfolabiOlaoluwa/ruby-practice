@@ -77,3 +77,4 @@ fabric.properties
 .idea/ruby-practice.iml
 .idea/vcs.xml
 *.iml
+.idea
